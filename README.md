@@ -15,4 +15,6 @@ Phase 4: C2 Machine Learning (coming soon)
 
 A summary of the first 3 phases is included in the Milestone Report 1.
 
-A summary of the machine learning phase and final findings wil be included in the Milestone Report 2 (coming soon).
+A summary of the machine learning phase and final findings is included in the Milestone Report 2 (coming soon).
+
+A slide deck presenting the stages of the project and findings is included in C2 Slide Deck (coming soon).
