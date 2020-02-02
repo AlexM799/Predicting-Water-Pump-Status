@@ -1,7 +1,7 @@
 # Predicting Water Pump Status
 This repository contains all of the files for the Predicting Water Pump status project.
 
-This capstone project involved predicting water pump status using data collected from the Tanzanian Ministry of Water, which has been organized into datasets by DrivenData.  These datasets were made available by DrivenData for a Kaggle competition and on their website, where they host competitions with humanitarian impact. 
+This project involved predicting water pump status using data collected from the Tanzanian Ministry of Water, which has been organized into datasets by DrivenData.  These datasets were made available by DrivenData for a Kaggle competition and on their website, where they host competitions with humanitarian impact. 
 
 Each phase of the data science life cycle has been organized into a Jupyter notebook, with supporting code included in custom .py scripts, and Pandas Profiling reports available in html files.
 
